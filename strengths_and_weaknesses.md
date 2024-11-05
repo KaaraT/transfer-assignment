@@ -5,3 +5,5 @@
 
 
 # Weaknesses
+
+1. **Complexity for Beginners**: Git has a steep learning curve, and its command-line interface can be intimidating for new users.
