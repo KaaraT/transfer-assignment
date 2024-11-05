@@ -7,3 +7,4 @@
 # Weaknesses
 
 1. **Complexity for Beginners**: Git has a steep learning curve, and its command-line interface can be intimidating for new users.
+2. **Merge Conflicts**: While Git's merging capabilities are powerful, resolving merge conflicts can be challenging and time-consuming, especially in large projects.
